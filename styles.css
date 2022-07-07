@@ -1,5 +1,16 @@
-#one {
+#one{
     font-family:"Open Sans";
     color: #a7aeba;
     margin-right: 100px; 
+}
+main div.font-2{
+    font-family:"Open Sans";
+    font-size: 21px;
+    font-weight: 600;
+}
+
+main div div div article{
+    font-family:"Roboto";
+    font-weight: 500;
+    font-size: 21px;
 }
