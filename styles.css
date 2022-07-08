@@ -8,8 +8,7 @@ main div.font-2{
     font-size: 21px;
     font-weight: 600;
 }
-
-main div div div article{
+main div div article.hello.there{
     font-family:"Roboto";
     font-weight: 500;
     font-size: 21px;
