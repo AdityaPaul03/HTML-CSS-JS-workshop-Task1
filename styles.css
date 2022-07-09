@@ -3,13 +3,17 @@
     color: #a7aeba;
     margin-right: 100px; 
 }
-main div.font-2{
-    font-family:"Open Sans";
-    font-size: 21px;
-    font-weight: 600;
+
+#two{
+    background-color:#d4dadf;
+    border:black;
+    width:330px;
+    padding-left:64px;
+    padding-top:32px;
 }
-main div div article.hello.there{
-    font-family:"Roboto";
-    font-weight: 500;
-    font-size: 21px;
+
+#two p {
+    padding-top:12px;
+    padding-bottom:12px;
+    padding-left:48px;
 }
